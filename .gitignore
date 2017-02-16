@@ -1,0 +1,4 @@
+# Ignoring workspaces files from Proteus
+
+hardware/*.workspace
+hardware/*.pdsbak
