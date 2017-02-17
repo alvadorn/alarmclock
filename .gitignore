@@ -2,3 +2,13 @@
 
 hardware/*.workspace
 hardware/*.pdsbak
+
+
+# ignore workspaces files from Atmel Studio
+firmware/Debug/
+firmware/Release/
+firmware/firmware.componentinfo.xml
+
+
+# Visual Studio
+.vs/
